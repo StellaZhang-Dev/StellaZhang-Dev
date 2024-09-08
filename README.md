@@ -1,11 +1,11 @@
 ### About Me 👋
 
+- 😄 I'm Stella.
 - 🔭 I’m currently working on AI applications in education as part of my research internship.
 - 🌱 I’m expanding my knowledge in machine learning and deep learning, with a focus on educational applications and neural networks.
 - 💬 Feel free to ask me about AI, data analysis, and educational technology.
 - 📫 How to reach me: [stellacheung1212@gmail.com](mailto:stellacheung1212@gmail.com)
 
-88888888
 
 <!--
 **StellaZhang-Dev/StellaZhang-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
