@@ -1,9 +1,16 @@
 ### About Me 👋
 
-- 😄 I'm Stella.
-- 🔭 I’m currently working on AI applications in education as part of my research internship.
-- 🌱 I’m expanding my knowledge in machine learning and deep learning, with a focus on educational applications.
-- 💬 Feel free to ask me about AI, data analysis, and educational technology.
+- 😄 Hi, I'm Stella.
+
+- I focus on machine learning through a mathematical lens — combining modeling, optimization concepts, and statistical reasoning to build robust AI systems.
+
+My background includes:
+- Mathematical modeling
+- Applied machine learning & deep learning
+- Optimization and probabilistic modeling (in progress)
+- End-to-end system implementation
+
+I’m particularly interested in representation learning and technically grounded AI systems.
 - 📫 How to reach me: [stellacheung1212@gmail.com](mailto:stellacheung1212@gmail.com)
 
 
