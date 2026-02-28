@@ -1,6 +1,6 @@
 ### About Me 👋
 
-😄 Hi, I'm Stella.
+Hi, I'm Stella.
 
 I focus on machine learning through a mathematical lens — combining modeling, optimization concepts, and statistical reasoning to build AI systems.
 
