@@ -2,7 +2,7 @@
 
 😄 Hi, I'm Stella.
 
-- I focus on machine learning through a mathematical lens — combining modeling, optimization concepts, and statistical reasoning to build robust AI systems.
+I focus on machine learning through a mathematical lens — combining modeling, optimization concepts, and statistical reasoning to build robust AI systems.
 
 My background includes:
 - Mathematical modeling
@@ -10,8 +10,9 @@ My background includes:
 - Optimization and probabilistic modeling (in progress)
 - End-to-end system implementation
 
-- I’m particularly interested in representation learning and technically grounded AI systems.
-- 📫 How to reach me: [stellacheung1212@gmail.com](mailto:stellacheung1212@gmail.com)
+I’m particularly interested in representation learning and technically grounded AI systems.
+
+📫 How to reach me: [stellacheung1212@gmail.com](mailto:stellacheung1212@gmail.com)
 
 
 <!--
